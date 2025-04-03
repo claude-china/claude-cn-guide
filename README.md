@@ -1,5 +1,5 @@
 # **【持续更新】国内如何使用Claude（克劳德）？（6种可用方法）**
-> 更新日期：2025-03-21
+> 更新日期：2025-04-03
 ---
 Claude，作为Anthropic团队开发的语言模型，以高效及准确而备受青睐。它擅长自然语言理解、内容生成以及高级问题解析。本文将告诉您如何在国内直接使用Claude,Claude国内也称为“克劳德”，目前最强的模型为Claude 3.7模型。
 
@@ -34,7 +34,7 @@ Claude，作为Anthropic团队开发的语言模型，以高效及准确而备�
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
 | **[一下 AI](https://chat.yixiaai.com)** | 支持Claude 3.7 Sonnet、GPT-4.0 、GPT o1、o3、联网查询等功能 | [点击访问](https://chat.yixiaai.com) |
-| **[蓝鲸 AI](https://chat.lanjing.ai)** | Claude 3, GPT 4 Turbo，Claude、Grok、高效简洁 | [点击访问](https://chat.lanjing.ai) |
+| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | Claude 3, GPT 4 Turbo，Claude、Grok、高效简洁 | [点击访问](https://chat.chatgpt-chinese.com/) |
 | **[智惠聚合 AI](https://deepseek-free.org/)** | Claude & DeepSeek满血版全解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点**：  

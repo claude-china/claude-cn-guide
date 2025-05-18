@@ -1,5 +1,5 @@
 # **【持续更新】国内如何使用Claude（克劳德）？（6种可用方法）**
-> 更新日期：2025-04-27  
+> 更新日期：2025-05-19  
 ---
 Claude，作为Anthropic团队开发的语言模型，以高效及准确而备受青睐。它擅长自然语言理解、内容生成以及高级问题解析。本文将告诉您如何在国内直接使用Claude,Claude国内也称为“克劳德”，目前最强的模型为Claude 3.7模型。
 
@@ -33,8 +33,8 @@ Claude，作为Anthropic团队开发的语言模型，以高效及准确而备�
 推荐几大资源：  
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
-| **[一下 AI](https://chat.yixiaai.com)** | 支持Claude 3.7 Sonnet、GPT-4o 、GPT-4o 绘图、GPT o1、GPT o3、Grokk-3、AP PPT、联网查询等功能 | [点击访问](https://chat.yixiaai.com) |
-| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | Claude 3, GPT 4.0，Claude、Grok、高效简洁 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[一下 AI](https://xsimplechat.com)** | 支持Claude 3.7 Sonnet、GPT-4o 、GPT-4o 绘图、GPT o1、GPT o3、Grokk-3、AP PPT、联网查询等功能 | [点击访问](https://xsimplechat.com) |
+| **[蓝鲸 AI](https://chat.lanjing.pro/)** | Claude 3, GPT 4.0，Claude、Grok、高效简洁 | [点击访问](https://chat.lanjing.pro/) |
 | **[智惠聚合 AI](https://deepseek-free.org/)** | Claude & DeepSeek满血版全解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点**：  
@@ -56,7 +56,7 @@ Claude，作为Anthropic团队开发的语言模型，以高效及准确而备�
 
 ### **3. 通过国内AI工具客户端访问**
 对于那些需要更稳定使用Claude的小伙伴，可以尝试下载国内开发的AI工具客户端。  
-例如：[智惠岛AI客户端](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)。  
+例如：[智惠岛AI客户端](https://xsimplechat.com)。  
 
 **优点**：  
 - 稳定可靠，无需浏览器运行。  
@@ -65,7 +65,7 @@ Claude，作为Anthropic团队开发的语言模型，以高效及准确而备�
 ---
 
 ### **4. Edge浏览器插件轻松上手Claude**
-如果你习惯用浏览器工作，直接安装支持Claude的插件也是一个不错的选择，比如通过Microsoft Edge提供的 [ChatGPT中文版插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)。  
+如果你习惯用浏览器工作，直接安装支持Claude的插件也是一个不错的选择，比如通过Microsoft Edge提供的 [ChatGPT中文版插件](https://chat.lanjing.pro)。  
 
 **优点**：  
 - 不额外开窗口，浏览器即插即用。  
@@ -108,7 +108,7 @@ Claude，作为Anthropic团队开发的语言模型，以高效及准确而备�
    答：Claude长文本生成更强，适合复杂任务。
 
 2. **国内稳定使用Claude的最佳选择是什么？**  
-   答：建议使用[一下AI平台](https://chat.yixiaai.com)，功能齐全且易用。
+   答：建议使用[一下AI平台](https://xsimplechat.com)，功能齐全且易用。
 
 3. **Claude支持哪些语言？**  
    答：目前支持多国语言，包括中文、英文等。

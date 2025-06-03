@@ -246,8 +246,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>【2025年5月】国内如何使用Claude（克劳德）？</h1>
-            <div class="update-date">更新日期：2025-05-23</div>
+            <h1>【2025年6月】国内如何使用Claude（克劳德）？</h1>
+            <div class="update-date">更新日期：<span id="current-date"></span></div>
             <p>6种简单的方法帮助您在中国访问Anthropic的领先Claude 4 Sonnet 模型</p>
         </header>
         
@@ -336,7 +336,7 @@
                     <p>某些服务网站直接提供Claude访问渠道，比如直接通过模拟器集成的方式，省去了许多繁琐操作。</p>
                     <p>建议关注：<a href="https://guide1.lanjing.ai" target="_blank">https://guide1.lanjing.ai</a>。</p>
                     <div class="pros">
-                        <div class="pros-title">优点：</div>
+rystalline                    <div class="pros-title">优点：</div>
                         <ul>
                             <li>操作简单，无需过多设置。</li>
                             <li>在线使用，设备友好。</li>
@@ -451,9 +451,23 @@
         </main>
         
         <footer>
-            <p>最后更新: 2025-05-23 | Claude, Anthropic, 克劳德使用指南</p>
+            <p>最后更新: <span id="footer-current-date"></span> | Claude, Anthropic, 克劳德使用指南</p>
             <p>本文仅供参考，请遵守相关法律法规使用AI工具</p>
         </footer>
     </div>
+    <script>
+        // Function to format the current date as YYYY-MM-DD
+        function getCurrentDate() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = String(today.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+            const day = String(today.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        // Set the current date in the header and footer
+        document.getElementById('current-date').textContent = getCurrentDate();
+        document.getElementById('footer-current-date').textContent = getCurrentDate();
+    </script>
 </body>
 </html>
